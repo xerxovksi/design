@@ -1,4 +1,4 @@
-﻿namespace Solid.Core.Infrastructure
+﻿namespace Solid.Core.Infrastructure.LocalVault
 {
     using Solid.Core.Contracts;
     using System.Threading.Tasks;

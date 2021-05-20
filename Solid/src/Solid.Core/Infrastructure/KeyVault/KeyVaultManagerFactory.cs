@@ -1,4 +1,4 @@
-﻿namespace Solid.Core.Infrastructure
+﻿namespace Solid.Core.Infrastructure.KeyVault
 {
     using Azure.Security.KeyVault.Secrets;
     using Solid.Core.Contracts;
